@@ -1,0 +1,17 @@
+2025-05-15 12:02:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\vvldu\eclipse-workspace\ParaBank\testngM.xml
+
+2025-05-15 12:02:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\vvldu\eclipse-workspace\ParaBank\testngM.xml
+
+2025-05-15 12:02:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\vvldu\eclipse-workspace\ParaBank\testngM.xml
+
+2025-05-15 12:02:57 INFO  TC02_Login:19 - *** started login test case ***
+2025-05-15 12:02:58 INFO  TC02_Login:19 - *** started login test case ***
+2025-05-15 12:02:58 INFO  TC02_Login:19 - *** started login test case ***
+2025-05-15 12:03:04 INFO  TC01_Register:16 - *** starting home page ***
+2025-05-15 12:03:05 INFO  TC01_Register:16 - *** starting home page ***
+2025-05-15 12:03:05 INFO  TC01_Register:20 - *** starting register page ***
+2025-05-15 12:03:05 INFO  TC01_Register:20 - *** starting register page ***
+2025-05-15 12:03:07 INFO  TC01_Register:50 - *** ending register page ***

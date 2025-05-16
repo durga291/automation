@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Selenium.xpathlocators&apos; to &apos;fontsizeandcolor&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumProject&apos;&#x0D;&#x0A;- Original element: &apos;Selenium.xpathlocators&apos;&#x0D;&#x0A;- Renamed element: &apos;Selenium.fontsizeandcolor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;xpathlocators&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Selenium{xpathlocators.java[xpathlocators" matchStrategy="1" name="fontsizeandcolor" qualified="false" references="true" similarDeclarations="false" stamp="1743404040190" textual="false" version="1.0"/>
+</session>
